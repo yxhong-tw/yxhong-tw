@@ -18,7 +18,7 @@
 </div>
 
 <!-- "Facebook" icon made by Pixel perfect from www.flaticon.com -->
-<!-- "document_note_paper_report_icon" by Flatart is licensed under CC BY-ND 3.0 -->
+<!-- "document_note_paper_report_icon" by Flatart is licensed under CC BY 3.0 -->
 <!-- "Instagram" icon made by Pixel perfect from www.flaticon.com -->
 <!-- "Linkedin" icon made by Freepik from www.flaticon.com -->
 <!-- "Twitter" icon made by Freepik from www.flaticon.com -->
