@@ -13,3 +13,8 @@
     <img src="https://user-images.githubusercontent.com/40751071/127133857-84f4a158-e03f-46b0-a319-50a11ce70b06.png" width="5%" height="5%" />
   </a>
 </div>
+
+<!-- Facebook icon made by Pixel perfect from www.flaticon.com -->
+<!-- Instagram icon made by Pixel perfect from www.flaticon.com -->
+<!-- Linkedin icon made by Freepik from www.flaticon.com -->
+<!-- Twitter icon made by Freepik from www.flaticon.com -->
