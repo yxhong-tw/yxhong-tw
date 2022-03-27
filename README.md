@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/yu-xiang-hong/" target="_blank">
     <img src="https://user-images.githubusercontent.com/40751071/127133795-8f30d9d9-31db-4efb-b9f6-ce1167f7ac3b.png" width="5%" height="5%" />
   </a>．
-  <a href="https://twitter.com/YuXiangHong_TW" target="_blank">
+  <a href="https://twitter.com/yxhong_tw" target="_blank">
     <img src="https://user-images.githubusercontent.com/40751071/127133857-84f4a158-e03f-46b0-a319-50a11ce70b06.png" width="5%" height="5%" />
   </a>
 </div>
