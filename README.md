@@ -1,24 +1,19 @@
-# Cing-Chen
-<div  align="center">
-  <a href="https://www.facebook.com/YuXiangHong.TW/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/40751071/127133727-16b3d2f1-0be1-4567-bd4d-f0ce32bfea41.png" width="5%" height="5%" />
-  </a>．
-<!--   <a href="https://hackmd.io/@Cing-Chen" target="_blank">
-    <img src="https://user-images.githubusercontent.com/40751071/127178929-96bb346e-2cee-4141-b50b-433a671d909c.png" width="5%" height="5%" />
-  </a>． -->
-  <a href="https://www.instagram.com/sunny._.yx/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/40751071/127133760-f53f6409-aca8-4d4b-94f2-bdb423896b18.png" width="5%" height="5%" />
-  </a>．
-  <a href="https://www.linkedin.com/in/yu-xiang-hong/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/40751071/127133795-8f30d9d9-31db-4efb-b9f6-ce1167f7ac3b.png" width="5%" height="5%" />
-  </a>．
-  <a href="https://twitter.com/yxhong_tw" target="_blank">
-    <img src="https://user-images.githubusercontent.com/40751071/127133857-84f4a158-e03f-46b0-a319-50a11ce70b06.png" width="5%" height="5%" />
-  </a>
-</div>
+# Hello, I'm [Yu-Xiang Hong](https://github.com/Cing-Chen)!
 
-<!-- "Facebook" icon made by Pixel perfect from www.flaticon.com -->
-<!-- "document_note_paper_report_icon" by Flatart is licensed under CC BY 3.0 -->
-<!-- "Instagram" icon made by Pixel perfect from www.flaticon.com -->
-<!-- "Linkedin" icon made by Freepik from www.flaticon.com -->
-<!-- "Twitter" icon made by Freepik from www.flaticon.com -->
+<!-- Those are made by "shields.io" except "Visitors Badge". -->
+<!-- "Visitors Badge" is made by "visitorbadge.io". -->
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:yuxiang.hong.tw@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yu-xiang-hong/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yuxiang.hong.tw)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sunny._.yx/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yxhong_tw)
+[![Visitors Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCing-Chen&countColor=%2337d67a&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCing-Chen)
+
+## Nice to see you!
+I'm an undergraduate student in Computer Science at National Central University.
+Recently, I'm currently into Deep Learning, Natural Language Processing and worrying about which university I can be accepted to study for my master's degree 😢.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cing-Chen&count_private=true&show_icons=true&theme=vue-dark&bg_color=0d1117&include_all_commits=false&border_radius=15&hide_border=false" height=200>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cing-Chen&layout=compact&theme=vue-dark&show_icons=true&bg_color=0d1117&include_all_commits=true&border_radius=15&hide_border=false&langs_count=8&hide=HTML,CSS,Batchfile&count_private=frue" height=200>
+</div>
