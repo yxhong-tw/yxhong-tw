@@ -14,6 +14,6 @@ I'm an undergraduate student in Computer Science at National Central University.
 Recently, I'm currently into Deep Learning, Natural Language Processing and worrying about which university I can be accepted to study for my master's degree 😢.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cing-Chen&count_private=true&show_icons=true&theme=vue-dark&bg_color=0d1117&include_all_commits=false&border_radius=15&hide_border=false" height=200>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cing-Chen&layout=compact&theme=vue-dark&show_icons=true&bg_color=0d1117&include_all_commits=true&border_radius=15&hide_border=false&langs_count=8&hide=HTML,CSS,Batchfile&count_private=frue" height=200>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cing-Chen&count_private=true&show_icons=true&theme=vue-dark&bg_color=0d1117&include_all_commits=false&border_radius=15&hide_border=false" height=175>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cing-Chen&layout=compact&theme=vue-dark&show_icons=true&bg_color=0d1117&include_all_commits=true&border_radius=15&hide_border=false&langs_count=8&hide=HTML,CSS,Batchfile&count_private=frue" height=175>
 </div>
