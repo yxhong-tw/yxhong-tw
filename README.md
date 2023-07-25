@@ -6,8 +6,9 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yxhong_tw)
 
 ## Nice to see you!
-I am currently a master's student in Computer Science at National Cheng Kung University.  
-I have a strong interest in Machine Learning and Natural Language Processing. Recently, I have been researching on Algorithms and Digital Circuit Design.
+I am a graduate student in Computer Science at National Cheng Kung University.  
+With a passion in Data Science, I am familiar with Machine Learning (ML), and excel particularly in Natural Language Processing (NLP).  
+Recently, I have been continuing my research in ML/NLP.
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yxhong-tw&count_private=true&show_icons=true&theme=vue-dark&bg_color=0d1117&include_all_commits=false&border_radius=15&hide_border=false" height=175>
