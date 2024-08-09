@@ -8,9 +8,8 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8380-8217)
 
 ## Nice to see you!
-I am a graduate student in Computer Science at National Cheng Kung University.  
-With a passion in Data Science, I am familiar with Machine Learning (ML), and excel particularly in Natural Language Processing (NLP).  
-Recently, I have been continuing my research in ML/NLP.
+I am a M.S. student in Computer Science at National Cheng Kung University.  
+With a passion in Artificial Intelligence, I am familiar with Machine and Deep Learning, excel particularly in Natural Language Processing and Large Language Model.
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yxhong-tw&count_private=true&show_icons=true&theme=vue-dark&bg_color=0d1117&include_all_commits=false&border_radius=15&hide_border=false" height=175>
